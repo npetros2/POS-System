@@ -1,0 +1,9 @@
+Receipt
+
+Apple ($0.21) x 2 = $0.42
+
+Subtotal: $0.42
+Tax: $0.03
+Total: $0.45
+
+Cash Paid: $2.00	Change: $1.55
